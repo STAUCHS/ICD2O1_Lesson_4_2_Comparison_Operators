@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
-# Name:		    Lesson 4.2 Comparison Operators
-# Purpose:		Lesson Examples
-# Author:		  Chen. C
-# Created:		07/04/2024
+# Name:		    Question 1
+# Purpose:	  Homework
+# Author:		  Last Name. First Initial
+# Created:		dd/mm/yyyy
 #-------------------------------------------------------------------------
 
