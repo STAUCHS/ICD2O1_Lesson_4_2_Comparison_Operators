@@ -9,8 +9,8 @@ Write a program that gets two numbers from the user and outputs a statement abou
 
 #### <ins>Sample Output:</ins>
 ```
-Enter the first number: 3
-Enter the second number: 2
+Enter the first number: 2
+Enter the second number: 3
 
 2 < 3 is True
 2 > 3 is False
@@ -25,8 +25,8 @@ Write another version of Question 1 such that you output statements that show th
 
 #### <ins>Sample Output:</ins>
 ```
-Enter the first number: 3
-Enter the second number: 2
+Enter the first number: 2
+Enter the second number: 3
 
 (2 * 3) < (2 + 3) is False
 (2 * 3) > (2 + 3) is True
